@@ -39,7 +39,7 @@
     $ git push
     ```
 
-6. Create a file `.github/workflows/release-package.yml` and copde the following content to it:
+6. Create a file `.github/workflows/release-package.yml` and copy the following content to it:
 
     ```YAML
     name: Node.js Package
