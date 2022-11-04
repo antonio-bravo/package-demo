@@ -1,5 +1,5 @@
 {
-  "name": "@wulfland/package-demo",
+  "name": "@antonio-bravo/package-demo",
   "version": "1.0.1",
   "description": "This is just a demo to set up a package in minutes.",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wulfland/package-demo.git"
+    "url": "git+https://github.com/antonio-bravo/package-demo.git"
   },
   "author": "Michael Kaufmann (@wulfland)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wulfland/package-demo/issues"
+    "url": "https://github.com/antonio-bravo/package-demo/issues"
   },
-  "homepage": "https://github.com/wulfland/package-demo#readme",
+  "homepage": "https://github.com/antonio-bravo/package-demo#readme",
   "dependencies": {
-    "@wulfland/acceleratedevops": "^1.3.5"
+    "@antonio-bravo/acceleratedevops": "^1.3.5"
   }
 }
