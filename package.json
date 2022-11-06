@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/antonio-bravo/package-demo#readme",
   "dependencies": {
-    "@antonio-bravo/acceleratedevops": "^1.3.5"
+    "@wulfland/acceleratedevops": "^1.3.5"
   }
 }
