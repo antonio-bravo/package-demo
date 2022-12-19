@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/antonio-bravo/package-demo/issues"
   },
-  "homepage": "https://github.com/antonio-bravo/package-demo#readme"
+  "homepage": "https://github.com/antonio-bravo/package-demo#readme",
+  "publishConfig": {
+    "@antonio-bravo:registry": "https://npm.pkg.github.com"
+  }
 }
